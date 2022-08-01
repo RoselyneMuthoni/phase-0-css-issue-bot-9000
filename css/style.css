@@ -1,5 +1,5 @@
 body {
-  color: pink;
+ background-color:  pink;
 }
 
 h1 {
@@ -9,11 +9,12 @@ h1 {
 
 h2 {
   color: green;
-  font: weight 900px;
+  font-weight: normal;
   font-style: italic;
 }
 
 .completed {
+  font-size: 12px;
   font-family:'Times New Roman', Times, serif;
 }
 
